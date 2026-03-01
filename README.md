@@ -5,6 +5,8 @@ The "Any-IP" utility helps you find out the IP address of a person who connects 
 Утилита " Any-IP " Помогает узнать айпи человека который подключается к вашему компьютеру через Anydesk, также показывает примерную геолокацию.
 
 # Build
-git clone https://github.com/wewantlife/Any-IP
-cd Any-IP
-pyinstaller --onefile --console --uac-admin --manifest=admin.manifest --name=Any-IP any-ip.py
+1. git clone https://github.com/wewantlife/Any-IP
+
+2. cd Any-IP
+
+3. pyinstaller --onefile --console --uac-admin --manifest=admin.manifest --name=Any-IP any-ip.py
